@@ -34,4 +34,4 @@ My First Repository
 
 // Dragon Ball Super continues to captivate fans with its intense battles, epic transformations, and the enduring spirit of its characters. It is a must-watch for Dragon Ball enthusiasts and anime lovers alike.
 
-// Feel free to explore the series and immerse yourself in the thrilling world of Dragon Ball Super! Let me know if you have any more questions.
+// Feel free to explore the series and immerse yourself in the thrilling world of Dragon Ball Super! Let me know if you have any more questions. 
