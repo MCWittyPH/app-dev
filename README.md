@@ -1,5 +1,5 @@
 # app-dev
-My first repository
+My First Repository
 # My Favorite Series: Dragon Ball Super
 ## Action-Adventure, Comedy, Science Fantasy, Martial Arts, Bangsian Fantasy
 
